@@ -8,4 +8,6 @@
 
 - <a href="instagram/@brunovskifelipe"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> @brunovskifelipe
 
-  [![Bruno Stats](https://github-readme-stats.vercel.app/api?username=BrunoFelipeGonc)](https://github.com/BrunoFelipeGonc/github-readme-stats)
+  [![Bruno Stats](https://github-readme-stats.vercel.app/api?username=BrunoFelipeGonc)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFelipeGonc)](https://github.com/anuraghazra/github-readme-stats)
