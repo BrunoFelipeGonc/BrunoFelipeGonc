@@ -8,7 +8,4 @@
 
 - <a href="instagram/@brunovskifelipe"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> @brunovskifelipe
 
-<!---
-BrunoFelipeGonc/BrunoFelipeGonc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  [![Bruno Stats](https://github-readme-stats.vercel.app/api?username=BrunoFelipeGonc)](https://github.com/BrunoFelipeGonc/github-readme-stats)
