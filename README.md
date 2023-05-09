@@ -5,6 +5,7 @@
 - 📫 How to reach me on:
 - <a href="linkedin.com/in/bruno-gonçalves-35a69b25" tagert="_blank"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"> 
+  linkedin.com/in/bruno-gonçalves-35a69b25
 
 - <a href="instagram/@brunovskifelipe"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> @brunovskifelipe
 
